@@ -4,7 +4,7 @@
 {
     "name": "Endpoint Auth API key",
     "summary": """Provide API key auth for endpoints.""",
-    "version": "18.0.1.0.1",
+    "version": "19.0.1.0.0",
     "license": "LGPL-3",
     "development_status": "Alpha",
     "author": "Camptocamp, Odoo Community Association (OCA)",
